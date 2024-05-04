@@ -20,9 +20,11 @@ Player-controlled movement to demonstrate the effect.
 # Controls
 
 Use the arrow keys (a or d) to move the player and observe the parallax effect.
+
 Note : key_a -move left and key_d -move right
 
 # Acknowledgements
 
 Thanks to Pygame for providing the graphics and input handling capabilities.
+
 Inspiration for the parallax scrolling effect from GameDev.net.
