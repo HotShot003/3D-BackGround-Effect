@@ -21,7 +21,7 @@ ground_height = ground_image.get_height()
 
 bg_images = []
 for i in range(1, 6):
-  bg_image = pygame.image.load(f"-{i}.png").convert_alpha()
+  bg_image = pygame.image.load(f"img-{i}.png").convert_alpha()
   bg_images.append(bg_image)
 bg_width = bg_images[0].get_width()
 
