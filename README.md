@@ -19,7 +19,7 @@ This effect mimics the way objects appear to move differently based on their dis
 
 Parallax scrolling is widely used in video games, websites, and multimedia applications to add visual interest and enhance immersion.
 
-# Features
+## Features
 
 Multiple background layers moving at different speeds.
 
@@ -27,7 +27,7 @@ Simulated depth perception using parallax scrolling.
 
 Player-controlled movement to demonstrate the effect.
 
-# Controls
+## Controls
 
 Use the arrow keys (a or d) to move the player and observe the parallax effect.
 
