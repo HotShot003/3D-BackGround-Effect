@@ -1,6 +1,7 @@
 # 3D Background Effect with Parallax Scrolling using Pygame
 
 This project demonstrates a 3D background effect with parallax scrolling implemented using Python and Pygame.
+
 The background consists of multiple layers that move at different speeds to simulate depth and create a dynamic visual effect.
 
 # Overview
