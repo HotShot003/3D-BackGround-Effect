@@ -4,7 +4,7 @@ This project demonstrates a 3D background effect with parallax scrolling impleme
 
 The background consists of multiple layers that move at different speeds to simulate depth and create a dynamic visual effect.
 
-# Overview
+## Overview
 
 In this project, we use Pygame to create a 3D-like background effect using parallax scrolling.
 
@@ -12,7 +12,7 @@ Parallax scrolling involves moving background layers at different speeds relativ
 
 This effect is commonly used in 2D and 3D games to enhance the visual experience.
 
-# About Parallax :
+## About Parallax :
 
 Parallax scrolling is a technique used in 2D and 3D graphics to create an illusion of depth by moving background layers at different speeds relative to the foreground. 
 
